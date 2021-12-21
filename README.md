@@ -30,4 +30,5 @@ Here are some of my projects:
     Technologies Used: Node.js, Angular, C#, .NET Core 5,
     Three.js SQL Server, MongoDB
 
+
 For any additional information, you can reach me at [tiagoavcosta25@gmail.com](mailto:tiagoavcosta25@gmail.com?subject=Contact%20from%20github)
