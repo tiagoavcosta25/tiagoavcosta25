@@ -3,7 +3,7 @@ Hi, I’m [@tiagoavcosta25](https://github.com/tiagoavcosta25/tiagoavcosta25), I
 Here are some of my projects:
   - [LAPR3](https://github.com/tiagoavcosta25/LAPR3)
   
-      This project is about developing an app that would allow a
+      This project consisted in developing an app that would allow a
     pharmaceutical company to manage its clients, products,
     orders, and deliveries through the use of complex graph
     algorithms.
@@ -12,7 +12,7 @@ Here are some of my projects:
 
   - [LAPR4](https://github.com/tiagoavcosta25/LAPR4)
     
-      This project is about developing a management and
+      This project consisted in developing a management and
     support system for the provision of services (Helpdesk),
     capable of responding to the needs of various
     organizations from different sectors of activity.
@@ -21,7 +21,7 @@ Here are some of my projects:
 
   - [LAPR5](https://github.com/tiagoavcosta25/LAPR5)
   
-      This project is about developing a game that simulated a
+      This project consisted in developing a game that simulated a
     social application, focused on expanding the players'
     social network. The game unfolded in a series of missions
     in which players would have to increase their network to
