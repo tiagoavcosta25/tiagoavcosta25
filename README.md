@@ -9,6 +9,8 @@ Here are some of my projects:
     algorithms.
     
     Technologies Used: Java, JUnit, Oracle SQL
+    
+    Grade: 20
 
   - [LAPR4](https://github.com/tiagoavcosta25/LAPR4)
     
@@ -18,6 +20,8 @@ Here are some of my projects:
     organizations from different sectors of activity.
     
     Technologies Used: Java, JPA, C, JUnit, H2 SQL
+    
+    Grade: 18
 
   - [LAPR5](https://github.com/tiagoavcosta25/LAPR5)
   
@@ -29,6 +33,8 @@ Here are some of my projects:
     
     Technologies Used: Node.js, Angular, C#, .NET Core 5,
     Three.js SQL Server, MongoDB
+    
+    Grade: 20
 
 
 For any additional information, you can reach me at [tiagoavcosta25@gmail.com](mailto:tiagoavcosta25@gmail.com?subject=Contact%20from%20github)
