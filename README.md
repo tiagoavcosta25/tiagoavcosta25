@@ -8,7 +8,7 @@ Here are some of my projects:
     orders, and deliveries through the use of complex graph
     algorithms.
     
-    Technologies Used: Java, JUnit, Oracle SQL
+    Stack: Java, JUnit, Oracle SQL
     
     Grade: 20
 
@@ -19,7 +19,7 @@ Here are some of my projects:
     capable of responding to the needs of various
     organizations from different sectors of activity.
     
-    Technologies Used: Java, JPA, C, JUnit, H2 SQL
+    Stack: Java, JPA, C, JUnit, H2 SQL
     
     Grade: 18
 
@@ -31,7 +31,7 @@ Here are some of my projects:
     in which players would have to increase their network to
     climb the leaderboard.
     
-    Technologies Used: Node.js, Angular, C#, .NET Core 5,
+    Stack: Node.js, Angular, C#, .NET Core 5,
     Three.js SQL Server, MongoDB
     
     Grade: 20
