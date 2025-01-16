@@ -1,4 +1,4 @@
-Hi, I’m [@tiagoavcosta25](https://github.com/tiagoavcosta25/tiagoavcosta25), I'm a former computer engineering student at ISEP, currently working as an Associate Software Developer at BLIP.
+Hi, I’m [@tiagoavcosta25](https://github.com/tiagoavcosta25/tiagoavcosta25), I'm a former computer engineering student at ISEP, currently working as an Software Developer at BLIP.
 
 Here are some of my projects:
   - [LAPR3](https://github.com/tiagoavcosta25/LAPR3)
